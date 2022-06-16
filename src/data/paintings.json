@@ -1,0 +1,34 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/paintings/paint-1.jpeg",
+      "title": "",
+      "description": "",
+      "url": "http://google.com"
+    },
+    {
+      "cover": "/portfolio/paintings/paint-2.jpeg",
+      "title": "",
+      "description": "",
+      "url": "http://google.com"
+    },
+    {
+      "cover": "/portfolio/paintings/paint-3.jpeg",
+      "title": "",
+      "description": "",
+      "url": "http://google.com"
+    },
+    {
+      "cover": "/portfolio/paintings/paint-4.jpeg",
+      "title": "",
+      "description": "",
+      "url": "http://google.com"
+    },
+    {
+      "cover": "/portfolio/paradoxon/paradoxon-1.jpeg",
+      "title": "",
+      "description": "",
+      "url": "http://google.com"
+    }
+  ]
+}
