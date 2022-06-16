@@ -40,7 +40,7 @@ const Home = () => {
           </h1>
           <h2>Author- Paradoxon: all being sane, none rational</h2>
           <Link to="/contact" className="flat-button">
-            CONTACT HER
+            Wish Her a Happy Birthday
           </Link>
         </div>
         <Logo />
