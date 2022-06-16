@@ -24,7 +24,7 @@ const Portfolio = () => {
         return (
             <AnimatedLetters
                 letterClass={letterClass}
-                strArray={"Loading...".split("")}
+                strArray={"Updating Soon...".split("")}
                 idx={15}
             />
             // <Carousel fade>
